@@ -1,0 +1,1 @@
+Last opp HELE mappen til Netlify. Environment variables: VIPPS_CLIENT_ID, VIPPS_CLIENT_SECRET, VIPPS_SUBSCRIPTION_KEY, VIPPS_MSN=1095143, VIPPS_BASE_URL=https://api.vipps.no, FRONTEND_URL=https://nicocars.com
